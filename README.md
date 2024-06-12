@@ -16,7 +16,7 @@ FanWiki Scraper is a Node.js module designed to fetch and extract data from vari
 To install FanWiki Scraper, use the following command:
 
 ```bash
-npm i github:rizxyu/fanwiki-scraper
+npm i github:WizzTeamOfficial/fanwiki-scraper
 ```
 
 ## Usage
