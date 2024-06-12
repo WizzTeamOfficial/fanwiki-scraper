@@ -26,7 +26,7 @@ const FanWiki = require('fanwiki-scraper');
 const fanwiki = new FanWiki();
 
 (async () => {
-    const searchResults = await fanwiki.search('Terraria');
+    const searchResults = await fanwiki.simpleSearch('Terraria');
     console.log(searchResults);
 })();
 
