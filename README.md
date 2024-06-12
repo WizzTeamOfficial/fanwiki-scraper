@@ -33,5 +33,20 @@ const fanwiki = new FanWiki();
 ```
 
 ## Available Methods
-`search(query)`
+``search(query)``
 <p>Search for a specific query across Fandom Wikis.</p>
+
+**Parameters:**
+
+- query (string): The search term.
+  
+**Returns:**
+- An array of search results with details including title, URL, thumbnail, and description.
+
+## Contributing
+Contributions are welcome! If you have any ideas, suggestions, or bug reports, please create an issue or submit a pull request.
+
+## Credits
+- Author: [Rizxyu](https://github.com/rizxyu)
+
+Thank you for using FanWiki Scraper! Your contributions and feedback are greatly appreciated.
