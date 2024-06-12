@@ -47,7 +47,4 @@ const fanwiki = new FanWiki();
 ## Contributing
 Contributions are welcome! If you have any ideas, suggestions, or bug reports, please create an issue or submit a pull request.
 
-## Credits
-- Author: [Rizxyu](https://github.com/rizxyu)
-
 Thank you for using FanWiki Scraper! Your contributions and feedback are greatly appreciated.
