@@ -33,7 +33,8 @@ const fanwiki = new FanWiki();
 ```
 
 ## Available Methods
-``search(query)``
+``communitySearch(query)``
+``simpleSearch(query)``
 <p>Search for a specific query across Fandom Wikis.</p>
 
 **Parameters:**
