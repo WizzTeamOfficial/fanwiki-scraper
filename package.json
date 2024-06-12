@@ -1,0 +1,22 @@
+{
+  "name": "fanwiki-scraper",
+  "version": "1.0.0",
+  "description": "A web scraper for Fandom Wiki using axios and cheerio.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "scraper",
+    "fandom",
+    "wiki",
+    "axios",
+    "cheerio"
+  ],
+  "author": "rizxyu",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.4.0",
+    "cheerio": "^1.0.0-rc.12"
+  }
+}
